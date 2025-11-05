@@ -2,9 +2,6 @@
 
 A sleek, real-time Bitcoin price comparison web app built with **React.js**, **TypeScript**, **Tailwind CSS**, and **AreaCode.io** for the backend. This project helps users find the best value when purchasing Bitcoin across multiple exchanges.
 
-## 📸 Demo
-
-![btc-tracker-demo](https://your-demo-image-or-gif-link-here)
 
 ## 🔧 Features
 
